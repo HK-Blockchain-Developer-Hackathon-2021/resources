@@ -69,47 +69,45 @@ The Awardee is engaged in a project (the “**Project**”) to maintain and furt
 
 10. all other risks, direct, indirect or ancillary relating to this Agreement which are not specifically or explicitly contained in or stated in these terms.
 
-11. **Representations**
-
-12. The Foundation hereby acknowledges, agrees, and represents as follows:
+11. The Foundation hereby acknowledges, agrees, and represents as follows:
 
     1. The Foundation is a business entity duly organized, validly existing, and in good standing under the laws of Singapore, and has the power and authority to own, lease, and operate its properties and carry on its business as now conducted.
     2. The execution, delivery and performance by Foundation of this AGREEMENT is within the power of the Foundation and has been duly authorized by all necessary actions on the part of Foundation.  This AGREEMENT constitutes a legal, valid and binding obligation of Foundation, enforceable against the Foundation in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.  To the knowledge of Foundation, it is not in violation of (i) its current articles of formation or (ii) any material indenture or contract to which the Foundation is a party or by which it is bound, where, in each case, such violation or default, individually or together with all such violations or defaults, could reasonably be expected to have a material adverse effect on the rights of the Foundation under this AGREEMENT.
 
-13. Awardee hereby acknowledges, agrees, and represents as follows: 
+12. Awardee hereby acknowledges, agrees, and represents as follows: 
 
     1. The Services and Deliverables provided hereunder shall be provided in a professional and workmanlike manner.
     2. Awardee has full legal capacity, power and authority to execute and deliver this AGREEMENT and to perform its obligations hereunder.  This AGREEMENT has been duly and validly executed and delivered by Awardee and constitutes a valid and binding AGREEMENT of Awardee, enforceable against Awardee in accordance with its terms, except as limited by (i) bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity or (ii) applicable laws.
 
-14. The Deliverables will not, to Awardee’s knowledge, infringe on any third party patent, copyright or other proprietary right or violate or misappropriate a trade secret of any third party.
+13. The Deliverables will not, to Awardee’s knowledge, infringe on any third party patent, copyright or other proprietary right or violate or misappropriate a trade secret of any third party.
 
-15. Awardee will use commercially reasonable efforts to ensure that any Deliverables provided in electronic form include no computer instructions, routines, devices, viruses, or software code whose purpose is to disrupt or damage or interfere with the use of computer and telecommunications facilities or to perform functions which are not an appropriate part of the functionality of the Deliverables and whose intended result is to disrupt processing.
+14. Awardee will use commercially reasonable efforts to ensure that any Deliverables provided in electronic form include no computer instructions, routines, devices, viruses, or software code whose purpose is to disrupt or damage or interfere with the use of computer and telecommunications facilities or to perform functions which are not an appropriate part of the functionality of the Deliverables and whose intended result is to disrupt processing.
 
-16. Awardee’s performance of the Services does not and will not, to Awardee’s knowledge, violate or conflict with or result in a breach of any terms, conditions, duties or obligations Awardee has to any third party.
+15. Awardee’s performance of the Services does not and will not, to Awardee’s knowledge, violate or conflict with or result in a breach of any terms, conditions, duties or obligations Awardee has to any third party.
 
-17. The final Deliverables will function materially in accordance with any mutually agreed upon specifications.  
+16. The final Deliverables will function materially in accordance with any mutually agreed upon specifications.  
 
-18. Awardee shall comply with all applicable laws concerning its activities in performance of this AGREEMENT and shall not cause Foundation to be in violation of any laws. 
+17. Awardee shall comply with all applicable laws concerning its activities in performance of this AGREEMENT and shall not cause Foundation to be in violation of any laws. 
 
-19. Awardee shall indemnify the Foundation against any claims, actions, investigations, demands, proceedings or judgments, joint or several, threatened, brought or established against the Foundation or any and all damages, losses, liabilities, settlements and expenses (including without limitation reasonable attorneys’ fees), in each case, that are incurred by the Foundation or payable to third parties in connection with legal proceedings that allege: (a) the infringement, violation, or misappropriation of any intellectual property or proprietary rights of any third party by the Awardee; (b) that alleges any material violation of applicable law or regulation by the Awardee in performance of its obligations or exercise of its rights pursuant to this Agreement; (c) arising out of or in connection with any material violation of the Awardee’s representations or warranties under this Agreement; or (d) that  is a result of Awardee’s willful misfeasance, bad faith, fraud or gross negligence of its duties or from reckless disregard by it of its obligations under this Agreement.
+18. Awardee shall indemnify the Foundation against any claims, actions, investigations, demands, proceedings or judgments, joint or several, threatened, brought or established against the Foundation or any and all damages, losses, liabilities, settlements and expenses (including without limitation reasonable attorneys’ fees), in each case, that are incurred by the Foundation or payable to third parties in connection with legal proceedings that allege: (a) the infringement, violation, or misappropriation of any intellectual property or proprietary rights of any third party by the Awardee; (b) that alleges any material violation of applicable law or regulation by the Awardee in performance of its obligations or exercise of its rights pursuant to this Agreement; (c) arising out of or in connection with any material violation of the Awardee’s representations or warranties under this Agreement; or (d) that  is a result of Awardee’s willful misfeasance, bad faith, fraud or gross negligence of its duties or from reckless disregard by it of its obligations under this Agreement.
 
-20. **Expenses**
+19. **Expenses**
 
     Each party to bear its own costs and expenses in connection with this AGREEMENT. 
 
-21. **AGREEMENT Term**
+20. **AGREEMENT Term**
 
     1. <u>Term</u>. This AGREEMENT shall begin on the Effective Date and shall continue for three (3) months (the “**AGREEMENT Term**”), unless earlier terminated in accordance with the terms and conditions of this AGREEMENT.  
 
-22. **Termination for Cause**
+21. **Termination for Cause**
 
     1. Either party may terminate this AGREEMENT in the event the other party has materially breached or defaulted in the performance of any of its obligations hereunder or the Terms and Conditions of the Hackathon Program. Notwithstanding the above, in the case of a failure to timely pay any amounts due under a Hackathon hereunder, the period for cure of any subsequent default following notice thereof shall be thirty (30) days and, unless payment is made within such period the termination shall become effective at the end of such period.  
 
-23. **No Agency**
+22. **No Agency**
 
     1. It is understood and agreed that Awardee is an independent contractor and that Awardee will perform the Services and will at all times comply with applicable law.  It is also expressly understood that neither Awardee nor Awardee’s personnel will be considered Foundation’s agents or employees, and have no authority whatsoever to bind Foundation by contract or otherwise.
 
-24. **Governing Law**
+23. **Governing Law**
 
     1. This AGREEMENT shall be governed by and construed under the laws of Singapore. Any dispute arising out of or in connection with this AGREEMENT, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force, which Rules are deemed to be incorporated by reference in this clause. The tribunal shall consist of one (1) arbitrator. The language of the arbitration shall be English. The seat of arbitration shall be Singapore.
     2. This Agreement is the entire agreement between the parties with respect to the Services and supersedes any prior agreements, proposals and understandings about the same subject. This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which will constitute one and the same document. The parties may electronically sign this Agreement and any documents related thereto.

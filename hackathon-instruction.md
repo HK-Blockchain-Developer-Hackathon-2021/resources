@@ -19,7 +19,7 @@ The voting procedure will take place right after the demo presentation of Startu
 
 Each judge and team will given a link to vote in a live poll app and the result will be shown in real time.
 
-### Don't forget to create a wallet to claim your rewards.
+### Don't forget to create your wallet to claim the rewards before the hacking.
 
 We will send out the ALGO rewards right on the event to all of you.
 
@@ -42,26 +42,22 @@ During the hacking, Cyberport will provide meal coupon.
 
 Here is the full schedule:
 
-**Feb 26, 2021**
-
-09:00-10:30	Check In
-10:00-10:15	Opening Keynote by Silvio Micali
-10:15-10:45	Panel by Algorand, Hashkey and Cyberport; Moderator: Sean Lee
-10:45-11:05	Keynote by Dr Raphael (Rafi) Yahalom, Researcher at MIT
-11:05-11:15	Keynote by **Cyberport???**
-11:15-11:35	Keynote by **Hashkey???**
-11:35-11:55	Keynote by Neha Naurla, Director of MIT DCI
-12:00  			Hacking Kick-Off
-
-**Feb 26, 2021**
-
-All Day			Hacking
-
-**Feb 26, 2021**	
-
-13:00-13:30	Prepare device for Your Demo Presentation
-13:30-18:00	Demo Presentations and Votings
-18:00-18:20	Reward Ceremony
+| **Feb 26, 2021** |                                                              |
+| ---------------- | ------------------------------------------------------------ |
+| 09:00-10:30      | Check In                                                     |
+| 10:00-10:15      | Opening Keynote by Silvio Micali                             |
+| 10:15-10:45      | Panel by Algorand, Hashkey and Cyberport; <br />Moderator: Sean Lee |
+| 10:45-11:05      | Keynote by Dr Raphael (Rafi) Yahalom, Researcher at MIT      |
+| 11:05-11:15      | Keynote by **Cyberport???**                                  |
+| 11:15-11:35      | Keynote by **Hashkey???**                                    |
+| 11:35-11:55      | Keynote by Neha Naurla, Director of MIT DCI                  |
+| 12:00            | Hacking Kick-Off                                             |
+| **Feb 26, 2021** |                                                              |
+| All Day          | Hacking                                                      |
+| **Feb 26, 2021** |                                                              |
+| 13:00-13:30      | Prepare device for Your Demo Presentation                    |
+| 13:30-18:00      | Demo Presentations and Votings                               |
+| 18:00-18:20      | Reward Ceremony                                              |
 
 See appendix for the info of speakers and judges.
 
@@ -123,17 +119,19 @@ We wish you all the best and we are looking forward to the result of your hackin
 
 ----
 
-## Appendix - Speakers and Judeges
+# Appendix - Speakers and Judeges
+
+## Speakers
 
 ![img](https://images.prismic.io/algorandcom/5e93c30105076be6c3439f67cc74064ac13765a1_founder-silvio.jpg?auto=compress,format)
 
-**Silvio Micali**
-Founder of Algorand
+**Silvio Micali**  
+Founder of Algorand  
 Silvio Micali has been on the faculty at MIT, Electrical Engineering and Computer Science Department, since 1983. Silvio’s research interests are cryptography, zero knowledge, pseudorandom generation, secure protocols, and mechanism design and blockchain. In particular, Silvio is the co-inventor of probabilistic encryption, Zero-Knowledge Proofs, Verifiable Random Functions and many of the protocols that are the foundations of modern cryptography.In 2017, Silvio founded Algorand, a fully decentralized, secure, and scalable blockchain which provides a common platform for building products and services for a borderless economy. At Algorand, Silvio oversees all research, including theory, security and crypto finance.Silvio is the recipient of the Turing Award (in computer science), of the Gödel Prize (in theoretical computer science) and the RSA prize (in cryptography). He is a member of the National Academy of Sciences, the National Academy of Engineering, the American Academy of Arts and Sciences and Accademia dei Lincei.Silvio has received his Laurea in Mathematics from the University of Rome, and his PhD in Computer Science from the University of California at Berkeley.
 
 
 
-**Dr Raphael (Rafi) Yahalom**
+**Dr Raphael (Rafi) Yahalom**  
 Researcher at MIT
 
 
@@ -144,11 +142,16 @@ Researcher at MIT
 
 ![](https://dam-prod.media.mit.edu/thumb/2017/03/23/headshot.jpg.800x800.jpg)
 
-**Neha Naurla**
-Director of MIT DCI
+**Neha Naurla**  
+Director of MIT DCI  
 Neha Narula is the Director of the [Digital Currency Initiative](http://dci.mit.edu/), a part of the MIT Media Lab focusing on cryptocurrencies and blockchain technology. While completing a PhD in computer science at MIT, she built fast, scalable distributed systems and databases. She is a member of the World Economic Forum's Global Futures Council on Blockchain and has given a [TED talk on the Future of Money](http://ted.com/talks/neha_narula_the_future_of_money). In a previous life, Neha helped relaunch the news aggregator Digg and was a senior software engineer at Google. There, she designed Blobstore, a system for storing and serving petabytes of immutable data, and worked on Native Client, a way to run native code securely through a browser. 
 
 
 
+## Judges
 
+![](https://images.prismic.io/algorandfoundationv2/b718ffdc-bcfc-4a3d-917a-225a31e51f67_Sean+Lee+Profile.JPG?auto=format%2Ccompress&fit=max&q=50)
 
+Sean Lee  
+CEO of Algorand Foundation  
+Sean is an accomplished leader with extensive go-to-market experience working with start-ups and global technology companies in North America and Asia. He is an inspiring conference speaker focusing on digital innovation, cloud strategy and FinTech. Prior to the Algorand Foundation, Sean held leadership roles within Dell Technologies, Pivotal and EMC, working with clients and partners across 20+ countries. Sean holds an Executive MBA from the Chinese University of Hong Kong and a Double Major in Computer Science and Mathematics from the University of Waterloo in Canada. He is an avid Star Wars fan, an amateur photographer, and a whiskey enthusiast.

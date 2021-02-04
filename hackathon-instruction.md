@@ -25,8 +25,8 @@ We will send out the ALGO rewards right on the event to all of you.
 
 **So please** 
 
-1. download and install the mobile Algorand Wallet here and create your wallet: https://www.algorand.com/wallet
-2. and submit the ALGO address of your team with this link: https://forms.gle/yzvRX3FA4S66cD2Y7
+1. download and install the mobile Algorand Wallet here and create your wallet: [https://www.algorand.com/wallet](https://www.algorand.com/wallet)
+2. and submit the ALGO address of your team with this link: [https://forms.gle/yzvRX3FA4S66cD2Y7](https://forms.gle/yzvRX3FA4S66cD2Y7)
 
 
 
@@ -85,7 +85,7 @@ In concise, each team should create a github repo in [the hackathon github organ
 
 To create your team repository:
 
-* The team leaders should submit their github ID via this form: https://forms.gle/jtRSPEtkQCTLmqAt7
+* The team leaders should submit their github ID via this form: [https://forms.gle/jtRSPEtkQCTLmqAt7](https://forms.gle/jtRSPEtkQCTLmqAt7)
 * We will create a team in Github for each team and the team leader can invite others to their team
 * The team leader shall create a repository under our Hackathon github organization
 
@@ -108,7 +108,7 @@ You should present your slides and demo with your own machine. There will be 30m
 
 That's it hackers.
 
-If you have any other questions, feel free to ask questions in the Discord channel.
+If you have any other questions, feel free to ask questions in the [Discord channel](https://discord.gg/YgPTCVk).
 
 If you are ready to go, then go ahead and win votes for your team with your laptop and your creativity.
 

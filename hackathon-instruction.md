@@ -44,7 +44,6 @@ See the table below for the full schedule:
 
 |  **Feb 26, 2021**      |                                                              |
 | ------------------------------ | ------------------------------------------------------------ |
-|         |                                                              |
 | 09:00-10:00                    | Check In                                                     |
 | 10:00-10:20                    | Opening Keynote by Silvio Micali                             |
 | 10:20-10:40                    | Keynote by Neha Naurla, Director of MIT DCI                  |

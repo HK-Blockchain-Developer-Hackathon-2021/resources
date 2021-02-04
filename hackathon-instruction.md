@@ -56,7 +56,7 @@ See the table below for the full schedule:
 | **Feb 26, 2021**               |                                                              |
 | All Day                        | Hacking                                                      |
 | **Feb 26, 2021**               |                                                              |
-| 13:00-13:30                    | Prepare device for Your Demo Presentation                    |
+| 12:00-13:30                    | Prepare device for Your Demo Presentation                    |
 | 13:30-18:00                    | Demo Presentations and Votings                               |
 | 18:00-18:20                    | Reward Ceremony                                              |
 
@@ -100,7 +100,7 @@ Each team will have 15 mins to present their projects and 5 mins for Q&A.
 
 The order of presentation will be random and announced in the discord group before the session starts.
 
-You should present your slides and demo with your own machine. There will be 30mins for you to test your device on the AV equipment provided at the venue. We will prepare adapters for your convenience.
+You should present your slides and demo with your own machine. Each team will have 2-3mins to test your device on the AV equipment provided at the venue. We will prepare adapters for your convenience.
 
 
 

@@ -52,9 +52,9 @@ See the table below for the full schedule:
 | 11:25-11:40                    | Keynote by Michel Lee, Executive President of Hashkey        |
 | 11:40-12:00                    | Keynote by Dr Raphael (Rafi) Yahalom, Researcher at MIT      |
 | 12:00                          | Hacking Kick-Off                                             |
-| **Feb 26, 2021**               |                                                              |
+| **Feb 27, 2021**               |                                                              |
 | All Day                        | Hacking                                                      |
-| **Feb 26, 2021**               |                                                              |
+| **Feb 28, 2021**               |                                                              |
 | 12:00-13:30                    | Prepare device for Your Demo Presentation                    |
 | 13:30-18:00                    | Demo Presentations and Votings                               |
 | 18:00-18:20                    | Reward Ceremony                                              |

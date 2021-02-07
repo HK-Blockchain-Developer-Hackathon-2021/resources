@@ -63,7 +63,7 @@ See [appendix](./appendix-speakers-and-judges.md) for the biography of speakers 
 
 ## What kinds of project should you be working on?
 
-You can find 3 business challenges [here in this folder](./challenges). You can either choose to work on one of them or any other derived topics that can show your creativity and innovative.
+You can find 2 business challenges [here in this folder](./challenges). You can either choose to work on one of them or any other derived topics that can show your creativity and innovative.
 
 In the meanwhile, we would like you to explore the features provided Algorand platform and apply them in your solutions. Espeicailly the [ASA (Algorand Stanard Asset)](https://developer.algorand.org/docs/features/asa/) and [Atomic Swap features](https://developer.algorand.org/docs/features/atomic_transfers/). You can find a number of tutorials on [Algorand Developer Portal](https://developer.algorand.org/). Feel free to implement any of the tutorial and add your application scenario to it.
 

@@ -1,4 +1,4 @@
-# HK Blockchain Developer Hackathon 2021 Instructions (WIP)
+# HK Blockchain Developer Hackathon 2021 Instructions
 
 Welcome! Here you will find the instructions on how to have a successful journey at HK Blockchain Developer Hackathon 2021.
 

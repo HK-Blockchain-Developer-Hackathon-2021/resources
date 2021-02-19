@@ -32,7 +32,7 @@ We will send out the ALGO rewards right on the event to all of you.
 
 ## Where and when will you be hacking?
 
-The event venue will be at Function Room 1-3 and Training Room 1-3, Cyberport.
+The event venue will be at Function Room 1-3 and Training Room 1-3,4F, Building #3, Cyberport.
 
 We will have a 48 hours hackathon with keynotes before the hacking, and reward ceremony after the hacking.
 

@@ -46,12 +46,10 @@ See the table below for the full schedule:
 | ------------------------------ | ------------------------------------------------------------ |
 | 09:00-10:00                    | Check In                                                     |
 | 10:00-10:20                    | Opening Keynote by Silvio Micali                             |
-| 10:20-10:40                    | Keynote by Neha Naurla, Director of MIT DCI                  |
-| 10:40-11:10                    | Panel by Algorand, Hashkey and Cyberport;<br/>Moderator: Sean Lee, CEO of Algorand Foundation |
-| 11:10-11:25                    | Keynote by Peter Yan, CEO of Cyberport                       |
-| 11:25-11:40                    | Keynote by Michel Lee, Executive President of Hashkey        |
-| 11:40-12:00                    | Keynote by Dr Raphael (Rafi) Yahalom, Researcher at MIT      |
-| 12:00                          | Hacking Kick-Off                                             |
+| 10:20-10:35                    | Keynote by Michel Lee, Executive President of Hashkey                  |
+| 10:35-10:55                    | Keynote by Dr Raphael (Rafi) Yahalom, Researcher at MIT  |
+| 10:55-11:25                    | Panel by Algorand, Hashkey and Cyberport;<br/>Moderator: Sean Lee, CEO of Algorand Foundation                       |
+| 11:25                          | Hacking Kick-Off                                             |
 | **Feb 27, 2021**               |                                                              |
 | All Day                        | Hacking                                                      |
 | **Feb 28, 2021**               |                                                              |

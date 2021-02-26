@@ -4,7 +4,7 @@ Welcome! Here you will find the instructions on how to have a successful journey
 
 ## First of all, how much rewards would you get?
 
-We will have 15,000 ALGO for Startup Group and another 15,000 ALGO for Student Group. The winner team of each group will also be awarded a Ledger Nano wallet for each of the team member.
+We will have 30,000 ALGO as rewards in total (≈30k USD). The winner team of each group will also be awarded a Ledger Nano wallet for each of the team member.
 
 We will have judges to vote for the team, and also have the teams to vote each other teams.
 
@@ -90,6 +90,10 @@ A complete submission should include the following files:
 
 * Your project files, including the codes and a brief readme on how to run your application
 * A slide that introduce the idea and mechanism of your project (You should present this in the demo session)
+
+For your reference, we have created a presentation template for you: https://docs.google.com/presentation/d/1cTZxUDHGQsLz1175VD8tNYpFxTCFObJKre8LVR7FQPI/edit#slide=id.p1
+
+Feel free to extend it and includes other sections.
 
 ### Demo Session
 
